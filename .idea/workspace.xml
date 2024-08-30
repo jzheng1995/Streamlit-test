@@ -10,6 +10,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jzheng1995"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jzheng1995/Streamlit-test.git",
+    "accountId": "ab501786-3b32-4822-9523-69614525a8c7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -43,8 +55,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725002400153</updated>
-      <workItem from="1725002409692" duration="2000" />
+      <workItem from="1725002409692" duration="108000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
